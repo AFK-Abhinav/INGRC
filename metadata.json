@@ -1,0 +1,8 @@
+{
+  "name": "Remix: INGRC Train Booking",
+  "description": "Indian Next-Gen Railway Corporation (INGRC) travel platform featuring smart routing, live tracking, and support systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
